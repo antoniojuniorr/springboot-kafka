@@ -1,2 +1,2 @@
 # springboot-kafka
-Projeto springboot com kafka utilizando docker.
+Projeto springboot, kafka e docker.
