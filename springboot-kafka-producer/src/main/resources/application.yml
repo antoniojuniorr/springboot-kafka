@@ -1,0 +1,8 @@
+spring:
+  kafka:
+    producer:
+      bootstrap-servers: localhost:9092
+      group-id: group_id
+
+topic:
+  name: cars
